@@ -1,0 +1,52 @@
+*{
+    background-color: rgb(205, 234, 243), rgb(181, 225, 238);
+
+
+}
+
+.header{
+width: 100%;
+    color: white !important;
+    padding: 40px;
+    white-space: normal;
+    background: linear-gradient(to right top, #6df5f5, #1c9eb3)
+}
+.h1{
+font-family: sans-serif;
+}
+.table{
+    width: 100%;
+    border: 20px;
+    background-color:aquamarine;
+}
+::marker{display: inline block;}
+.navigationbar{
+    padding-top: 23;
+    text-align: end;
+    padding-right: 60px;
+    justify-items:
+}
+
+.aboutme{
+min-height: 10vh;
+ background-color: white;
+ justify-content: center;
+ text-align: center;
+ font-size: larger;
+ font-style: normal;
+}
+
+ .h1{
+font-family: sans-serif;
+font-size: x-large;
+ }
+
+ .contactinformation{
+background-color: #2deeee;
+min-height: 30vh;
+float: inline-start;
+max-width: 100%;
+font-size: larger;
+ }
+
+ 
